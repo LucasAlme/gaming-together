@@ -1,7 +1,9 @@
 <div align = center >
   <h1>App for Gamers</h1>
   <h2>Sign In Page</h2>
- <img src="https://user-images.githubusercontent.com/69490077/139156490-0593775a-0be6-47b2-a120-1049737ccace.jpg" width="250px"/>
+  <img src="https://user-images.githubusercontent.com/69490077/139316210-50951f5a-d14a-4f3f-a104-fe03ce1a5765.jpg" width="250px"/>
+  <h2>Home Page</h2>
+ <img src="https://user-images.githubusercontent.com/69490077/139316208-178e2f5f-54d4-4a52-b0df-d97d6acbc6ba.jpg" width="250px"/>
   <h3>A mobile App using React Native for help gamers to sincronize your games</h3>
 </div>
 # Feature
