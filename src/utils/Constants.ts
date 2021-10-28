@@ -9,6 +9,7 @@ const color = {
     blue100: "#0A1033",
     blue90: "#0D133D",
     blue80: "#0E1647",
+    blue75: "#171F52",
     blue70: "#1B2565",
     blue60: "#1B2565",
     blue50: "#243189",
