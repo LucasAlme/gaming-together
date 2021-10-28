@@ -2,6 +2,7 @@ const color = {
     green: "#32BD50",
     heading: "#DDE3F0",
     grey: "#ABB1CC",
+    greyWinter: "#ABB1CC",
     red: "#E51C44",
     redWine: "#991F36",
     black: "rgba(0,0,0,0.7)",
