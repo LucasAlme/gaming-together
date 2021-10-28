@@ -18,9 +18,8 @@ export default function Category({ title, icon: Icon, checked = false, ...rest }
         <RectButton {...rest}>
             <LinearGradient style={styles.container} colors={[color.blue50, color.blue70]} >
                 <View style={[styles.content, { opacity: checked ? 1 : 0.4 }]}>
-                    <View style={checked ? styles.checked : styles.check}>
-                        <Icon width={48} height={48} />
-                    </View>
+                    <View style={checked ? styles.checked : styles.check} />
+                    <Icon width={48} height={48} />
                     <Text style={styles.title}>{title}</Text>
                 </View>
             </LinearGradient>
