@@ -3,6 +3,7 @@ import { color } from "../../utils/Constants";
 
 export const styles = StyleSheet.create({
     container: {
-  
+    
     },
+   
 })
