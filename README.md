@@ -3,7 +3,9 @@
   <h2>Sign In Page</h2>
   <img src="https://user-images.githubusercontent.com/69490077/139316210-50951f5a-d14a-4f3f-a104-fe03ce1a5765.jpg" width="250px"/>
   <h2>Home Page</h2>
- <img src="https://user-images.githubusercontent.com/69490077/139316208-178e2f5f-54d4-4a52-b0df-d97d6acbc6ba.jpg" width="250px"/>
+ <img src="https://user-images.githubusercontent.com/69490077/139504444-abc9117b-0214-4358-808c-290cf716534c.jpg" width="250px"/>
+  <h2>Details</h2>
+ <img src="https://user-images.githubusercontent.com/69490077/139504443-cd756c5d-0fed-405a-9835-0c760569cad3.jpg" width="250px"/>
   <h3>A mobile App using React Native for help gamers to sincronize your games</h3>
 </div>
 # Feature
