@@ -14,7 +14,7 @@ type Props = RectButtonProps & {
     checked?: boolean;
 }
 
-export default function Category({ title, icon: Icon, checked = false, hasCheckBox = true, ...rest }: Props) {
+export default function Category({ title, icon: Icon, checked = false, hasCheckBox = false, ...rest }: Props) {
     return (
         <RectButton {...rest}>
             <LinearGradient style={styles.container} colors={[color.blue50, color.blue70]} >
