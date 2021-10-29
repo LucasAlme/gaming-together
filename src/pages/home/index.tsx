@@ -46,6 +46,10 @@ export default function Home() {
         navigation.navigate('AppointmentsDetails')
     }
 
+    function handleAppointmentCreate() { 
+        navigation.navigate('AppointmentsCreate')
+    }
+
     function handleCategorySelect(categoryId: string) {
         categoryId === category ? setCategory('') : setCategory(categoryId);
     }
@@ -54,9 +58,9 @@ export default function Home() {
         <Background>
             <View style={styles.header}>
                 <Profile />
-                <ButtonAdd />
+                <ButtonAdd onPress={handleAppointmentCreate}/>
             </View>
-            <CategorySelect categorySelected={category} setCategory={handleCategorySelect} />
+            <CategorySelect categorySelected={category} setCategory={handleCategorySelect} hasCheckBox/>
             <View style={styles.content}>
                 <ListHeader title={"Partida agendadas"} subtitle={"Total 6"} />
                 <FlatList

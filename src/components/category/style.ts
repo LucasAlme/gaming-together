@@ -21,7 +21,8 @@ export const styles = StyleSheet.create({
     title: {
         fontFamily: fonts.RadBold,
         color: color.heading,
-        fontSize: 15
+        fontSize: 15,
+        marginTop: 15
     },
     check: {
         position: 'absolute',
